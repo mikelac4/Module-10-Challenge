@@ -30,6 +30,7 @@ THEN I exit the application, and the HTML is generated
 
 ![test](https://user-images.githubusercontent.com/112447725/215934483-d3adde46-5da9-4f7e-8cd5-71d2cc306ff9.png)
 ![input](https://user-images.githubusercontent.com/112447725/215934510-ee239aaf-0c30-4538-89ce-8e36ff44ad24.png)
+![site](https://user-images.githubusercontent.com/112447725/215934722-6659963b-113e-4c88-ab65-e530b1072ce0.png)
 
 
 ## Links
