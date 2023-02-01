@@ -108,7 +108,7 @@ function generate() {
           .prompt([
             {
                 type: 'input',
-                name: 'EngineerName',
+                name: 'engineerName',
                 message: "What is the Engineer's name?",
                 validate: (answer) => {
                     if (answer !== '') {
