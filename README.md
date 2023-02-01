@@ -25,3 +25,15 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+
+## Screenshot
+
+
+
+## Links
+
+GitHub Repository: https://github.com/mikelac4/Module-10-Challenge
+
+Video: https://drive.google.com/file/d/1hHs8ZqHSDdKzHoGGZS6VTErr37Gd86M8/view
+
+
